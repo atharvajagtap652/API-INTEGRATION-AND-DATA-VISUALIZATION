@@ -48,3 +48,9 @@ Real-Time Data Monitoring Systems
 Educational Projects for Learning API Consumption and Visualization
 
 Smart City Weather Reporting Tools
+
+OUTPUT:-
+
+<img width="859" height="400" alt="Image" src="https://github.com/user-attachments/assets/287a4b05-5024-462d-89c2-7bf9047f10b3" />
+
+<img width="866" height="889" alt="Image" src="https://github.com/user-attachments/assets/9e46f6a2-f936-4ddb-baba-e79db3e51823" />
