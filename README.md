@@ -1,1 +1,13 @@
 # API-INTEGRATION-AND-DATA-VISUALIZATION
+Company:- CODETECH IT SOLUTIONS
+
+NAME:- Atharva Suresh Jagtap
+
+INTERN ID:-CT08DM228
+
+DOMAIN:-  Python Programming
+
+DURATION:- 8 weeks
+
+MENTOR:-Neela Santhosh Kumar
+
