@@ -11,7 +11,7 @@ DURATION:- 8 weeks
 
 MENTOR:-Neela Santhosh Kumar
 
-DESCPRETION:- API Integration and Data Visualization
+Description:- API Integration and Data Visualization
 
 In this project, we worked on API Integration and Data Visualization by connecting to an external API to fetch real-time data and represent it graphically.
 
